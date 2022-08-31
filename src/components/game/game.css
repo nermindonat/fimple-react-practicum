@@ -2,7 +2,7 @@
     width: 400px;
     height: 400px;
     background-color: #9A5C4D;
-    border: 1px solid black;
+    border: 1px solid #fff;
     display: flex;
     flex-direction: column;
     box-shadow: 0px 0px 10px 10px #a2776c;

@@ -1,12 +1,13 @@
 .square {
     flex: 33%;
     height: 100%;
-    border: 1px solid black;
+    border: 1px solid #fff;
     cursor: pointer;
     display: grid;
     place-items: center;
     font-size: 30px;
-    color: black;
+    color: #fff;
+    font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
 
